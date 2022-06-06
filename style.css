@@ -98,7 +98,7 @@ body {
         background-color: #000000ee;
         padding: 3rem 0;
         border-radius: 5px;
-        z-index: 999;
+        z-index: 15;
         position: absolute;
         left: -100%;
         top: 40px;
@@ -122,7 +122,7 @@ body {
 @media only screen and (max-width:600px) {
     .nav-items .navbars li a {
         color: #ffc600;
-        font-size: 1rem;
+        font-size: 1.4rem;
         margin: 20px 0;
     }
     
