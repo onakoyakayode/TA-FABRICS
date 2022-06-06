@@ -92,7 +92,7 @@ body {
         grid-template-columns: 1fr;
         gap: 20px;
         width: 100%;
-        min-height: 70%;
+        min-height: 100%;
         margin: 20px auto 0 auto;
         text-align: center;
         background-color: #000000ee;
