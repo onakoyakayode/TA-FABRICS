@@ -270,7 +270,7 @@ body {
 
 .headline p::after {
     position: absolute;
-    content: url('/arrow-down.svg');
+    content: url('./arrow-down.svg');
     filter: invert(0.8);
     left: 49%;
     top: 60px;
@@ -283,7 +283,7 @@ body {
 @media only screen and (max-width:600px) {
     .headline p::after {
     position: absolute;
-    content: url('/arrow-down.svg');
+    content: url('./arrow-down.svg');
     filter: invert(0.8);
     left: 49%;
     top: 0px;
